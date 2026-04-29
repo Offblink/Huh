@@ -1,6 +1,6 @@
 # *Huh* - README
 
-*Huh* is developed for OCR+Translating for games' dialogue and so on.
+*Huh* is developed by OCR+Translating for games' dialogue and so on.
 
 When your command of certain language stucks you into confusion, *Huh* it and all becomes clear.
 
